@@ -21,3 +21,7 @@ else:
 
 v_final=(total+imposto)
 print(f"Voce comprou {quantidade} {produto}s, sob o preco bruto de {total} gerando um acrescimo {imposto} reais . O valor final da sua compra é {v_final}.")
+
+
+
+teste!
