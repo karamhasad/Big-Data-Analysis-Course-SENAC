@@ -25,3 +25,5 @@ print(f"Voce comprou {quantidade} {produto}s, sob o preco bruto de {total} geran
 
 
 teste!
+
+tesste
