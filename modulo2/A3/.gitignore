@@ -1,0 +1,2 @@
+#Arquivo destinado a determinar quais documentos não serão enviados ao github. 
+*.csv
